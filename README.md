@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nguyenbydoing@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Mf1ExFQwBu7qGaxmAIJnG6Q8RrCylFI/view?usp=sharing](https://drive.google.com/file/d/14Mf1ExFQwBu7qGaxmAIJnG6Q8RrCylFI/view?usp=sharing)
+- 📄 Know about my experiences [resume here](https://drive.google.com/file/d/14Mf1ExFQwBu7qGaxmAIJnG6Q8RrCylFI/view?usp=sharing)
 
 - ⚡ Fun fact **To be happy, go to Disneyland. To be truly happy, unapologetically live life in your most authentic you**
 
