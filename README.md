@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nam Hoang Nguyen</h1>
-<h3 align="center">A passionate Vietnamese American entrepreneur in tech + business</h3>
+<h3 align="center">Love to work .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nam-h-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="nam-h-nguyen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nam-h-nguyen" alt="nam-h-nguyen" /></a> </p>
 
-- 🔭 I’m currently working on [UNFCK Movement](https://beacons.ai/unfckmovement)
-
-- 👯 I’m looking to collaborate on [AYYGO](https://www.ayygo.world/)
-
-- 💬 Ask me about **how to live your best life**
-
 - 📫 How to reach me **nguyenbydoing@gmail.com**
-
-- 📄 Know about my experiences [resume here](https://drive.google.com/file/d/14Mf1ExFQwBu7qGaxmAIJnG6Q8RrCylFI/view?usp=sharing)
-
-- ⚡ Fun fact **To be happy, go to Disneyland. To be truly happy, unapologetically live life in your most authentic you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
